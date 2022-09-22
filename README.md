@@ -2,7 +2,7 @@
 Orange S.A., formerly France Télécom S.A., is a French multinational telecommunications corporation. The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer canceled the subscription.
 Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
 
-CONCLUSIONS:
+**CONCLUSIONS:**
 
 After performing exploratory data analysis on the data set, this is what we have incurred from data:
 
@@ -20,7 +20,7 @@ In international calls data shows that the churn rate of those customers is high
 
 In Customer service calls data shows us that whenever an unsatisfied customer called the service center the churn rate is high, which means the service center didn't resolve the customer issue.
 
-RECCOMENDATIONS:
+**RECOMENDATIONS:**
 
 * Improve network coverage churned state
 * In international plan provide some discount plan to the customer
